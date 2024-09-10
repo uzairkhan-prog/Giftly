@@ -1,0 +1,13 @@
+.custom-btn-white {
+    float: right;
+    bottom: 50px;
+    right: 35px;
+    background-color: white;
+    color: #e53471;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+img.main-logo {
+    width: 170px;
+}
